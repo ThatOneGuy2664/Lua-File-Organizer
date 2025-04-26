@@ -1,7 +1,7 @@
 local file_types = {
     Images = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".pixil", ".psd", ".jng"},
     Documents = {".txt", ".pdf", ".docx", ".xlsx", ".pptx", ".md", ".doc"},
-    Audio = {".mp3", ".wav", ".flac", ".ogg", ".aac", ".aif", ".aiff"},
+    Audio = {".mp3", ".wav", ".flac", ".ogg", ".aac", ".aif", ".aiff", ".m4a"},
     Videos = {".mp4", ".mkv", ".avi", ".mov"},
     Archives = {".zip", ".tar", ".rar", ".7z"},
     Java = {".java", ".jar", ".class"},
